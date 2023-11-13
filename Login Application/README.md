@@ -1,5 +1,5 @@
 The login application let's you login using the predefined credentials given in the Database Setup document. 
-Follow the instructions below to launch the application
+Follow the instructions below to launch the application. Requires Java 17 and above.
 
 1. Install the database first. Instructions are given in the Database Setup document.
 2. Download the zip file and extract it
